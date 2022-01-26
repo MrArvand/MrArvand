@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "CaskaydiaCove NF,MonoLisa,IRANSansX, 'Courier New', monospace",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Andromeda",
+    "editor.linkedEditing": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "files.autoSave": "onFocusChange",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "tabnine.experimentalAutoImports": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "ا": true
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "php.validate.executablePath": "c:/xampp/php/php.exe",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
