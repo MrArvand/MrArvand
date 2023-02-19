@@ -3,7 +3,7 @@
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Andromeda",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
   "editor.linkedEditing": true,
   "workbench.productIconTheme": "fluent-icons",
   "files.autoSave": "onFocusChange",
@@ -17,5 +17,16 @@
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "security.workspace.trust.untrustedFiles": "open",
   "php.validate.executablePath": "c:/xampp/php/php.exe",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.fontFamily": "Hack NF",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  }
 }
