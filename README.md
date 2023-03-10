@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @MrArvand
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on any web based project I can do.
+- 👩🏻‍💻 I’m a full-stack web developer
+- 📱 I’m a junior flutter developer too
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on any project I can do.
 - 📫 Can reach me by simply send mail to mr.arvand1@gmail.com
 
 <!---
