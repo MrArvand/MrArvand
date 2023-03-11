@@ -34,3 +34,4 @@ mail($to,$email_subject,$email_body,$headers);
 //Done. redirect to thank you page.
 header('Location: index.html#home');
 die();
+?>
