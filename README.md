@@ -95,7 +95,7 @@ hobbies: ["Coding", "Mobile Development", "Web Development"]
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrArvand&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MrArvand&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -105,7 +105,7 @@ hobbies: ["Coding", "Mobile Development", "Web Development"]
 
 ## 🎨 GitHub Profile Trophies
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrArvand&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=MrArvand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
