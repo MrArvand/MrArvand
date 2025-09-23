@@ -105,7 +105,7 @@ hobbies: ["Coding", "Mobile Development", "Web Development"]
 
 ## 🎨 GitHub Profile Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=MrArvand" alt="GitHub Trophies" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrArvand&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
